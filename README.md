@@ -150,10 +150,10 @@
 
 <p align="center">
   
-  <a  href="https://linkedin.com/in/kailashtanniru/" target="_blank">
+  <a  href="https://www.linkedin.com/in/vishnu-divvela-868b871b9/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-  <a href="mailto:tannirukailash@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:divvelavishnusai@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
@@ -163,8 +163,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Kailash-tanniru&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Kailash-tanniru)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Kailash-tanniru&theme=material-palenight)](https://github.com/Kailash-tanniru)
+[![](https://github-readme-stats.vercel.app/api?username=vishnu305&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/vishnu305)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=vishnu305&theme=material-palenight)](https://github.com/vishnu305)
 </div>
 
 ----
